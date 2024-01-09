@@ -1,0 +1,14 @@
+C:\Users\ed\Desktop\c# console test project\bin\Debug\net8.0\c# console test project.exe
+C:\Users\ed\Desktop\c# console test project\bin\Debug\net8.0\c# console test project.deps.json
+C:\Users\ed\Desktop\c# console test project\bin\Debug\net8.0\c# console test project.runtimeconfig.json
+C:\Users\ed\Desktop\c# console test project\bin\Debug\net8.0\c# console test project.dll
+C:\Users\ed\Desktop\c# console test project\bin\Debug\net8.0\c# console test project.pdb
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\c# console test project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\c# console test project.AssemblyInfoInputs.cache
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\c# console test project.AssemblyInfo.cs
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\c# console test project.csproj.CoreCompileInputs.cache
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\c# console test project.dll
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\refint\c# console test project.dll
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\c# console test project.pdb
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\c# console test project.genruntimeconfig.cache
+C:\Users\ed\Desktop\c# console test project\obj\Debug\net8.0\ref\c# console test project.dll
