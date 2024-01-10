@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System.Text.Json;
 using c__console_test_project;
 
 class MyTestClass
@@ -13,7 +14,9 @@ class MyTestClass
         Console.WriteLine(KeyValuePairCheck.CheckIfKeyValuePairIsEmpty());
         // ReverseString Class
         Console.WriteLine(ReverseStringClass.ReverseString("abcdefg"));
-    
+        // Edabit
+        var resultOfMultiples = Edabit.ArrayOfMultiples(5, 10);
+        Console.WriteLine(JsonSerializer.Serialize(resultOfMultiples));
     }
 }
 
